@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gate-way" />
+        <module name="registration-service" />
+        <module name="grpc-client" />
+        <module name="radar-service" />
+        <module name="eureka-discovery" />
+        <module name="infraction-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-discovery" target="17" />
+      <module name="gate-way" target="17" />
+      <module name="grpc-client" target="17" />
+      <module name="infraction-service" target="17" />
+      <module name="radar-service" target="17" />
+      <module name="registration-service" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
