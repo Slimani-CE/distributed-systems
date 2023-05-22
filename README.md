@@ -12,3 +12,6 @@
 - [Angular client](#angular-client)
 - [Security with Keycloak](#security-with-keycloak)
 - [Docker](#docker)
+
+# Architecture
+![Architecture](assets/architecture.png)

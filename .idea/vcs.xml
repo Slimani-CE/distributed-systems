@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-radar-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-discovery-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gateway-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-radar-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infraction-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radar-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/registration-service" vcs="Git" />
+  </component>
+</project>

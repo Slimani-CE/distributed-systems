@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/distributed-systems.iml" filepath="$PROJECT_DIR$/.idea/distributed-systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-discovery-service/eureka-discovery.iml" filepath="$PROJECT_DIR$/eureka-discovery-service/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gate-way.iml" filepath="$PROJECT_DIR$/gateway-service/gate-way.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-radar-client/grpc-client.iml" filepath="$PROJECT_DIR$/grpc-radar-client/grpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infraction-service/infraction-service.iml" filepath="$PROJECT_DIR$/infraction-service/infraction-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radar-service/radar-service.iml" filepath="$PROJECT_DIR$/radar-service/radar-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registration-service/registration-service.iml" filepath="$PROJECT_DIR$/registration-service/registration-service.iml" />
+    </modules>
+  </component>
+</project>
