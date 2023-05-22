@@ -1,0 +1,3 @@
+[submodule "grpc-radar-client"]
+	path = grpc-radar-client
+	url = https://github.com/Slimani-CE/grpc-radar-client
