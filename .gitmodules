@@ -1,3 +1,21 @@
 [submodule "grpc-radar-client"]
 	path = grpc-radar-client
 	url = https://github.com/Slimani-CE/grpc-radar-client
+[submodule "angular-radar-application"]
+	path = angular-radar-application
+	url = https://github.com/Slimani-CE/radar-angular-application
+[submodule "infraction-service"]
+	path = infraction-service
+	url = https://github.com/Slimani-CE/infraction-service
+[submodule "radar-service"]
+	path = radar-service
+	url = https://github.com/Slimani-CE/radar-service
+[submodule "registration-service"]
+	path = registration-service
+	url = https://github.com/Slimani-CE/registration-service
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/Slimani-CE/gate-way
+[submodule "eureka-discovery-service"]
+	path = eureka-discovery-service
+	url = https://github.com/Slimani-CE/eureka-discovery-service
