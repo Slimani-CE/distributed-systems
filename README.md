@@ -15,3 +15,6 @@
 
 # Architecture
 ![Architecture](assets/architecture.png)
+
+# Class Diagram
+![Class Diagram](assets/class-diagram.png)
